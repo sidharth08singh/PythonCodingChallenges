@@ -1,0 +1,6 @@
+def permutations(str):
+
+
+
+abc
+
